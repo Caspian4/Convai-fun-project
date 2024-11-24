@@ -43,7 +43,9 @@ This project exemplifies how game development tools can be adapted for unique, r
 ---
 
 ### 🎥 **Demo**
-[demo video](speaking_coach.mp4)
+![Screenshot 2024-11-24 112805](https://github.com/user-attachments/assets/2a7c8730-f5cc-4311-a611-5c62c51d6c45)
+
+Watch the [demo video](speaking_coach.mp4) !
 
 ---
 
