@@ -32,14 +32,20 @@ This project exemplifies how game development tools can be adapted for unique, r
 - **Unity Hub** and Unity Editor installed.
 - A **ConvAI account** to access and deploy AI characters.
 
+---
+
 ### Steps to Set Up
 - Open the project in Unity Editor.
 - Refer to the ConvAI Documentation for step-by-step instructions on integrating ConvAI with Unity.
 - Link your ConvAI API key and test the character interactions.
 - Build and run the project on your platform of choice.(used localhost xampp)
+  
+---
 
 ### 🎥 **Demo**
+[demo video](speaking_coach.mp4)
 
+---
 
 ### 📧 **Contact**
 For any questions, suggestions, or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ayushi-a-804490252) or email me at your-[adhikariayushi18@gmail.com](mailto:adhikariayushi18@gmail.com).
