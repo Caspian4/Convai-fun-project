@@ -42,4 +42,4 @@ This project exemplifies how game development tools can be adapted for unique, r
 
 
 ### 📧 **Contact**
-For any questions, suggestions, or collaboration opportunities, feel free to reach out via [LinkedIn](www.linkedin.com/in/ayushi-a-804490252) or email me at your-[adhikariayushi18@gmail.com](mailto:adhikariayushi18@gmail.com).
+For any questions, suggestions, or collaboration opportunities, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ayushi-a-804490252) or email me at your-[adhikariayushi18@gmail.com](mailto:adhikariayushi18@gmail.com).
